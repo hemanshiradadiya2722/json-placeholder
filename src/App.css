@@ -1,0 +1,21 @@
+.App {
+  text-align: center;
+}
+
+.menu a{
+  text-decoration: none;
+  color: black;
+  padding: 25px ;
+}
+.menu a:hover{
+  font-weight: 500;
+  /* transition: 0.3s; */
+  text-decoration: underline ;
+}
+.menu{
+  padding:20px 0;
+  background-color: #d1d2d4;
+}
+.bg{
+  background-color: #e2e3e5;
+}
